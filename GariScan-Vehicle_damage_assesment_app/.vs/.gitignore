@@ -2,10 +2,13 @@
 backend/node_modules/
 backend/.env
 backend/package-lock.json
+backend/.env
+
 
 # Flutter build and IDE files
 frontend/*
 !frontend/lib/
+
 
 # Visual Studio files
 .vs/
