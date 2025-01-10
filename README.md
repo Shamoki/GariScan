@@ -25,5 +25,5 @@
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/Shamoki/GariScan-Vehicle_damage_assesment.git
+   git clone https://github.com/Shamoki/GariScan.git
    cd GariScan-Vehicle_damage_assesment
